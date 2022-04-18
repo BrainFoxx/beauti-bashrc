@@ -1,2 +1,2 @@
-# beauti-bashrc
+# beauti bashrc
 For your linux terminal
