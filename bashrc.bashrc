@@ -72,7 +72,7 @@ if [ "$color_prompt" = yes ]; then
 	prompt_symbol=💀
     fi
 
-    PS1=$prompt_color'┌──${debian_chroot:+($debian_chroot)──}('$info_color'\u${prompt_symbol}'$info_color2'Ʊbuntu'$prompt_color')-[\[\033[0;1m\]\w'$prompt_color']\n'$prompt_color'└⤖'$info_color'\[\033[0m\] '
+    PS1=$prompt_color'┌──${debian_chroot:+($debian_chroot)──}('$info_color'\u${prompt_symbol}'$info_color2''$prompt_color')-[\[\033[0;1m\]\w'$prompt_color']\n'$prompt_color'└⤖'$info_color'\[\033[0m\] '
 
 
 
