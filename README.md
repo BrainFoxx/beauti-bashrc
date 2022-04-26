@@ -1,5 +1,5 @@
 <h1 align="center">👾 Beauti bashrc</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=brainfoxx&label=Profile%20Views&color=0e75b6&style=flat-square" alt="brainfoxx" /> </p>
+
 <h3 align="center">git clone https://github.com/BrainFoxx/beauti-bashrc<br>
 cd beauti-bashrc<br>
 chmod +x bashr.sh<br>
